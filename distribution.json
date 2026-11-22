@@ -86055,7 +86055,16 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
      }
     }
-   ]
+   ],
+   "javaOptions": {
+    "supported": "17.x",
+    "suggestedMajor": 17,
+    "distribution": "TEMURIN",
+    "ram": {
+     "recommended": 6144,
+     "minimum": 4096
+    }
+   }
   }
  ]
 }

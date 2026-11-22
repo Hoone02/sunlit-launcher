@@ -2463,16 +2463,6 @@
      }
     },
     {
-     "id": "toni.missingmodschecker:missingmodschecker:1.0.1@jar",
-     "name": "Missing Mods Checker",
-     "type": "ForgeMod",
-     "artifact": {
-      "size": 407080,
-      "url": "https://cdn.modrinth.com/data/gR4YXm1s/versions/3Ol68uqG/missingmodschecker-forge-1.0.1-1.20.1.jar",
-      "MD5": "009371f410c59a71e092c358499db002"
-     }
-    },
-    {
      "id": "fuzs.moblassos:moblassos:8.0.1@jar",
      "name": "Mob Lassos",
      "type": "ForgeMod",

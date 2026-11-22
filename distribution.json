@@ -8,7 +8,7 @@
    "description": "Society: Sunlit Valley 4.1.5B (Forge 47.4.0)",
    "icon": "https://hoone02.github.io/sunlit-launcher/servers/sunlit-1.20.1/icon.png",
    "version": "4.1.5B",
-   "address": "pixelhoon.kr:25565",
+   "address": "pixelhoon.kr:25566",
    "minecraftVersion": "1.20.1",
    "mainServer": true,
    "autoconnect": true,
@@ -15640,9 +15640,9 @@
      "name": "servers.dat",
      "type": "File",
      "artifact": {
-      "size": 19102,
+      "size": 76,
       "url": "https://hoone02.github.io/sunlit-launcher/servers/sunlit-1.20.1/files/configureddefaults/servers.dat",
-      "MD5": "7923e4c269d57c5b01b4ac6fbec1648b",
+      "MD5": "5f36a5c768aab6fb1e0d9c0410fe748e",
       "path": "configureddefaults/servers.dat"
      }
     },
